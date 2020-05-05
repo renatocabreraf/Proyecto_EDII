@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj": {}
+    "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\Proyecto_EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj": {
+    "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\Proyecto_EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj",
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\Proyecto_EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj",
         "projectName": "ProyectoEDII",
-        "projectPath": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\Proyecto_EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII.csproj",
         "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\ProyectoEDII\\ProyectoEDII\\ProyectoEDII\\obj\\",
+        "outputPath": "C:\\Users\\Renato\\Desktop\\URL\\Estructura de Datos II\\Repo EDII\\Proyecto_EDII\\ProyectoEDII\\ProyectoEDII\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
